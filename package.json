@@ -1,0 +1,9 @@
+{
+  "name" : "duoai",
+  "author" : "Teja",
+  "contributors" : [],
+  "dependencies" : {"express":*,"body-parser":*,"request":*},
+  "repository" : {"type": "git", "url": "https://git.heroku.com/duoai.git"},
+  "main" : "index.js",
+  "version" : "1.1.6"
+}
